@@ -1,26 +1,26 @@
-<h1 align="center">Hey, I'm Ayush Roy 👋</h1>
+<h1 align="center">Hey, I'm Ayush Roy </h1>
 
 <p align="center">
   <b>CS Undergrad @ Delhi Technological University</b> &nbsp;|&nbsp; Full Stack Dev &nbsp;|&nbsp; ML/AI Builder
 </p>
 
 <p align="center">
-  <a href="mailto:ayush39roy@gmail.com">📧 Email</a> &nbsp;•&nbsp;
-  <a href="https://linkedin.com">💼 LinkedIn</a> &nbsp;•&nbsp;
-  <a href="https://github.com">🐙 GitHub</a> &nbsp;•&nbsp;
-  <a href="#">🌐 Portfolio</a> &nbsp;•&nbsp;
-  <a href="#">⚔️ LeetCode</a>
+  <a href="mailto:ayush39roy@gmail.com"> Email</a> &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/ayush-roy-674808209/"> LinkedIn</a> &nbsp;•&nbsp;
+  <a href="https://github.com/ayush39roy-eng">GitHub</a> &nbsp;•&nbsp;
+  <a href="https://ayush39roy-eng.github.io/Ayush_portfolio/">🌐 Portfolio</a> &nbsp;•&nbsp;
+  <a href="https://leetcode.com/u/0mFgdXP6at/">⚔️ LeetCode</a>
 </p>
 
 ---
 
-### 🚀 About Me
+###  About Me
 
-- 🎓 B.Tech CSE @ **DTU** (8.6 CGPA) — 2025–2029
-- 💼 Ex **Full Stack Intern @ RapidSurge** — built production-grade systems serving 50+ users
-- 🤖 Building at the intersection of **AI/ML + Full Stack**
-- 🏆 **2nd Runner-Up** BITS Pilani Apogee | **Runner-Up** DTU Invictus | **Finalist** HackTU (Thapar)
-- 🌱 Currently exploring **LLMs, RAG pipelines, and Agentic AI**
+-  B.Tech CSE @ **DTU** (8.6 CGPA) — 2025–2029
+-  Ex **Full Stack Intern @ RapidSurge** — built production-grade systems serving 50+ users
+- Building at the intersection of **AI/ML + Full Stack**
+- **2nd Runner-Up** BITS Pilani Apogee | **Runner-Up** DTU Invictus | **Finalist** HackTU (Thapar)
+- Currently exploring **LLMs, RAG pipelines, and Agentic AI**
 
 ---
 
@@ -56,10 +56,10 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🍔 [**SkipQ**](#) | Full-stack food-tech SaaS — pre-order & dine-in platform with multi-vendor CRM, Razorpay payments, real-time WebSockets. 20K+ organic visits. | React, Node, MongoDB, WebSockets |
-| 🤖 [**EDITH**](#) | RAG-based AI system for codebase intelligence using LangChain + ChromaDB. HackTU Finalist (Top 10 / 200+ teams). | FastAPI, React, LangChain, ChromaDB |
-| ✋ [**Hand Gesture Drone Control**](#) | Custom CNN (98% accuracy) classifying 7 gestures in real-time at 30fps with sub-100ms latency. | Python, TensorFlow, Keras, OpenCV |
-| 📋 [**PunchPal**](#) | Production attendance system with GPS geofencing, WhatsApp webhooks, and real-time admin analytics. | Flask, React, Expo |
+|  [**SkipQ**](#) | Full-stack food-tech SaaS — pre-order & dine-in platform with multi-vendor CRM, Razorpay payments, real-time WebSockets. 20K+ organic visits. | React, Node, MongoDB, WebSockets |
+|  [**EDITH**](#) | RAG-based AI system for codebase intelligence using LangChain + ChromaDB. HackTU Finalist (Top 10 / 200+ teams). | FastAPI, React, LangChain, ChromaDB |
+|  [**Hand Gesture Drone Control**](#) | Custom CNN (98% accuracy) classifying 7 gestures in real-time at 30fps with sub-100ms latency. | Python, TensorFlow, Keras, OpenCV |
+|  [**PunchPal**](#) | Production attendance system with GPS geofencing, WhatsApp webhooks, and real-time admin analytics. | Flask, React, Expo |
 
 ---
 
