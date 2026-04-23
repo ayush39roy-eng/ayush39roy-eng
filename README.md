@@ -8,8 +8,8 @@
   <a href="mailto:ayush39roy@gmail.com"> Email</a> &nbsp;•&nbsp;
   <a href="https://www.linkedin.com/in/ayush-roy-674808209/"> LinkedIn</a> &nbsp;•&nbsp;
   <a href="https://github.com/ayush39roy-eng">GitHub</a> &nbsp;•&nbsp;
-  <a href="https://ayush39roy-eng.github.io/Ayush_portfolio/">🌐 Portfolio</a> &nbsp;•&nbsp;
-  <a href="https://leetcode.com/u/0mFgdXP6at/">⚔️ LeetCode</a>
+  <a href="https://ayush39roy-eng.github.io/Ayush_portfolio/"> Portfolio</a> &nbsp;•&nbsp;
+  <a href="https://leetcode.com/u/0mFgdXP6at/"> LeetCode</a>
 </p>
 
 ---
